@@ -1,0 +1,9 @@
+Added Component: Designator=K1(KEY_SMD_S_2P)
+Added Component: Designator=K2(KEY_SMD_S_2P)
+Added Pin To Net: NetName=KEY1 Pin=K1-1
+Added Pin To Net: NetName=KEY2 Pin=K1-2
+Added Pin To Net: NetName=KEY1 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Member To Class: ClassName=Sheet1_Analog Member=Component K1 KEY
+Added Member To Class: ClassName=Sheet1_Analog Member=Component K2 KEY
+Added Room: Name=Sheet1_Analog

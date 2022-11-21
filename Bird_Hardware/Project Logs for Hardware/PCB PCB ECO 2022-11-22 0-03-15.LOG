@@ -1,0 +1,15 @@
+Added Component: Designator=P2(M3x6_L-Type)
+Added Component: Designator=P3(M3x6_L-Type)
+Added Component: Designator=U4(USB-A/F-S)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+5 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P2 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P3 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component U4 USB-OUT
+Added Room: Name=Sheet1_Analog

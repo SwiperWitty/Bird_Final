@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=KEY_OPA Pin=U3-1
+Removed Pin From Net: NetName=ELE_OUT Pin=U3-2
+Removed Pin From Net: NetName=3V0 Pin=U3-3
+Removed Pin From Net: NetName=AGND Pin=U3-4
+Removed Pin From Net: NetName=NetR12_2 Pin=U3-6
+Removed Pin From Net: NetName=OUTB Pin=U3-7
+Removed Pin From Net: NetName=+5 Pin=U3-8
+Removed Member From Class: ClassName=Sheet1_Analog Member=U3
+Added Component: Designator=U?(MSOP_8)
+Added Pin To Net: NetName=KEY_OPA Pin=U?-1
+Added Pin To Net: NetName=ELE_OUT Pin=U?-2
+Added Pin To Net: NetName=3V0 Pin=U?-3
+Added Pin To Net: NetName=AGND Pin=U?-4
+Added Pin To Net: NetName=NetR12_2 Pin=U?-6
+Added Pin To Net: NetName=OUTB Pin=U?-7
+Added Pin To Net: NetName=+5 Pin=U?-8
+Added Member To Class: ClassName=Sheet1_Analog Member=Component U? LM358
+Added Room: Name=Sheet1_Analog

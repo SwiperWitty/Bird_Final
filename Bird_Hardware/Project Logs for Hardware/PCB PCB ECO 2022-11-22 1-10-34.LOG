@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAPE_E New Footprint=CAP_6032_C
+Change Component Comment : Designator=C8 Old Comment=220UF New Comment=100UF
+Added Room: Name=Sheet1_Analog
