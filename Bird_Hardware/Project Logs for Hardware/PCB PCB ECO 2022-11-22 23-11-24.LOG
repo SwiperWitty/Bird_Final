@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Added Component: Designator=P3(M3x6_L-Type)
+Added Component: Designator=P6(M3x6_L-Type)
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C3 100UF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C4 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C6 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C7 100UF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C10 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C17 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P5 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P6 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R5 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R7 0.005¦¸
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R9 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R11 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R13 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component U2 LDO
+Added Member To Class: ClassName=Sheet1_Analog Member=Component U4 Temper
+Added Room: Name=Sheet1_Analog

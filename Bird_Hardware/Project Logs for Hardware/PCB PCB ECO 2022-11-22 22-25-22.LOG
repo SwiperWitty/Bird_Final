@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=Sheet1_Analog Member=R?
+Removed Member From Class: ClassName=Sheet1_Analog Member=U?
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C13
+Change Component Designator: OldDesignator=C7 NewDesignator=C14
+Change Component Designator: OldDesignator=C8 NewDesignator=C15
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=KEY_OPA Pin=D3-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Pin To Net: NetName=KEY_EN Pin=D2-2
+Added Net: Name=KEY_EN
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C11 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C12 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C13 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C14 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C15 100UF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component C16 100NF
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R15 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component U6 USB-OUT
+Added Room: Name=Sheet1_Analog
