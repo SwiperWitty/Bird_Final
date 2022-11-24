@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADC_Temp Pin=U7-7
+Removed Pin From Net: NetName=ADC_Ele Pin=U7-8
+Added Pin To Net: NetName=ADC_Ele Pin=U7-7
+Added Pin To Net: NetName=ADC_Temp Pin=U7-8
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

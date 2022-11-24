@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ADC_Vol Pin=U7-7
+Removed Pin From Net: NetName=ADC_Temp Pin=U7-9
+Added Pin To Net: NetName=ADC_Temp Pin=U7-7
+Added Pin To Net: NetName=ADC_Vol Pin=U7-9
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R11 1K
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

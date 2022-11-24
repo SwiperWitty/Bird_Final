@@ -1,0 +1,16 @@
+Added Component: Designator=P7(LCD_1.28)
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=VDD Pin=P7-3
+Added Pin To Net: NetName=VDD Pin=P7-4
+Added Pin To Net: NetName=GND Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Pin To Net: NetName=D/C Pin=P7-7
+Added Pin To Net: NetName=NSS Pin=P7-8
+Added Pin To Net: NetName=SCLK Pin=P7-9
+Added Pin To Net: NetName=MOSI Pin=P7-10
+Added Pin To Net: NetName=RES Pin=P7-11
+Added Pin To Net: NetName=GND Pin=P7-12
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component P7 SHOW
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

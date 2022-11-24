@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=RES Pin=U7-15
+Removed Pin From Net: NetName=BZZ Pin=U7-17
+Added Component: Designator=C18(CAP_0603)
+Added Component: Designator=C19(CAP_0603)
+Added Component: Designator=R23(RESC_0603_2)
+Added Component: Designator=R24(RESC_0603_2)
+Added Pin To Net: NetName=AGND Pin=C18-1
+Added Pin To Net: NetName=AGND Pin=C19-1
+Added Pin To Net: NetName=BZZ Pin=U7-15
+Added Pin To Net: NetName=RES Pin=U7-16
+Added Pin To Net: NetName=DAC Pin=C19-2
+Added Pin To Net: NetName=DAC Pin=R24-1
+Added Pin To Net: NetName=DAC Pin=U5-5
+Added Net: Name=DAC
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R23-1
+Added Pin To Net: NetName=NetC18_2 Pin=R24-2
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=PWM Pin=R23-2
+Added Pin To Net: NetName=PWM Pin=U7-17
+Added Net: Name=PWM
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component C18 100NF
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component C19 100NF
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R18 200
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R19 200
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R20 10K
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R23 1K
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R24 1K
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

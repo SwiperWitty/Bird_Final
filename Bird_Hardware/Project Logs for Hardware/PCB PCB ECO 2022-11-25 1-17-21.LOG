@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Added Component: Designator=R18(RESC_0603_2)
+Added Component: Designator=R19(RESC_0603_2)
+Added Pin To Net: NetName=UART_RX Pin=R18-1
+Added Pin To Net: NetName=SCL Pin=R18-2
+Added Pin To Net: NetName=UART_TX Pin=R19-1
+Added Pin To Net: NetName=SDA Pin=R19-2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR21_1
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R12 0¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R21 22¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R22 1K
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

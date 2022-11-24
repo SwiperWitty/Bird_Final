@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=+5 Pin=R21-2
+Removed Pin From Net: NetName=BZZ Pin=R22-2
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=Q4
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=R21
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=R22
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=U8
+Change Component Footprint: Designator=P3 Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-WS-2P
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

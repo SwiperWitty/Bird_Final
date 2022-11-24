@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=R?
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR19_1
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R20 1K

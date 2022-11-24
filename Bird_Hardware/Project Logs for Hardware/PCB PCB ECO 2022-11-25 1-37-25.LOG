@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BZZ Pin=U7-15
+Removed Pin From Net: NetName=PWM Pin=U7-17
+Removed Member From Class: ClassName=Sheet1_Analog Member=P8
+Added Pin To Net: NetName=PWM Pin=U7-15
+Added Pin To Net: NetName=BZZ Pin=U7-17
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P3 OUT
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P4 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P5 Í­Öù6m
+Added Member To Class: ClassName=Sheet1_Analog Member=Component P6 Í­Öù6m
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

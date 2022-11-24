@@ -1,0 +1,79 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Added Component: Designator=J1(XH2.54-WS-4P)
+Added Component: Designator=K3(KEY_SMD-4P)
+Added Component: Designator=L3(Inductor_0603)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23_3)
+Added Component: Designator=R17(RESC_0603_2)
+Added Component: Designator=R18(RESC_0603_2)
+Added Component: Designator=R19(RESC_0603_2)
+Added Component: Designator=U7(SSOP_20_0.635)
+Added Component: Designator=U8(SMD402)
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=VDD Pin=L3-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=VDD Pin=R17-2
+Added Pin To Net: NetName=+5 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=ADC_Vol Pin=U7-7
+Added Pin To Net: NetName=ADC_Ele Pin=U7-8
+Added Pin To Net: NetName=ADC_Temp Pin=U7-9
+Added Pin To Net: NetName=BZZ Pin=R19-2
+Added Pin To Net: NetName=BZZ Pin=U7-17
+Added Net: Name=BZZ
+Added Pin To Net: NetName=D/C Pin=U7-10
+Added Net: Name=D/C
+Added Pin To Net: NetName=LED Pin=U7-16
+Added Net: Name=LED
+Added Pin To Net: NetName=MOSI Pin=U7-14
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=U7-4
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R19-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=U8-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U8-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NSS Pin=U7-11
+Added Net: Name=NSS
+Added Pin To Net: NetName=RES Pin=U7-15
+Added Net: Name=RES
+Added Pin To Net: NetName=RST Pin=K3-2
+Added Pin To Net: NetName=RST Pin=K3-2
+Added Pin To Net: NetName=RST Pin=R17-1
+Added Pin To Net: NetName=RST Pin=U7-6
+Added Net: Name=RST
+Added Pin To Net: NetName=SCLK Pin=U7-12
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=U7-19
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWDIO Pin=U7-18
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART_RX Pin=U7-1
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=U7-20
+Added Net: Name=UART_TX
+Added Class: Name=Sheet2_MCU_Digital
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R11 1K
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R12 0¦¸
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R14 1K
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital
