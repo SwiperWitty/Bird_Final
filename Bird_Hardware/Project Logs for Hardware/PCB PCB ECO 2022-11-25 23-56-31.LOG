@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=K1-0
+Removed Pin From Net: NetName=GND Pin=K1-0
+Removed Pin From Net: NetName=GND Pin=K2-0
+Removed Pin From Net: NetName=GND Pin=K2-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Member From Class: ClassName=Sheet1_Analog Member=R21
+Added Component: Designator=Q4(SOT23_3)
+Added Component: Designator=R25(RESC_0603_2)
+Added Component: Designator=R26(RESC_0603_2)
+Added Component: Designator=U7(BZZ_SMT)
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=+5 Pin=R25-2
+Added Pin To Net: NetName=BZZ Pin=R26-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R26-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=U7-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U7-1
+Added Net: Name=NetR25_1
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component Q4 NPN
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R17 10¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R18 10K
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R19 10¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R25 10¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R26 1K
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component U7 BEE
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

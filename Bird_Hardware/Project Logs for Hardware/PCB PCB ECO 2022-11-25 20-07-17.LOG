@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=K1-0
+Removed Pin From Net: NetName=GND Pin=K1-0
+Removed Pin From Net: NetName=GND Pin=K2-0
+Removed Pin From Net: NetName=GND Pin=K2-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=DAC Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=U6-MH1
+Removed Pin From Net: NetName=GND Pin=U6-MH2
+Removed Pin From Net: NetName=UART_RX Pin=U7-1
+Removed Pin From Net: NetName=NetL3_2 Pin=U7-4
+Removed Pin From Net: NetName=AGND Pin=U7-5
+Removed Pin From Net: NetName=RST Pin=U7-6
+Removed Pin From Net: NetName=ADC_Ele Pin=U7-7
+Removed Pin From Net: NetName=ADC_Temp Pin=U7-8
+Removed Pin From Net: NetName=ADC_Vol Pin=U7-9
+Removed Pin From Net: NetName=D/C Pin=U7-10
+Removed Pin From Net: NetName=NSS Pin=U7-11
+Removed Pin From Net: NetName=SCLK Pin=U7-12
+Removed Pin From Net: NetName=KEY_EN Pin=U7-13
+Removed Pin From Net: NetName=MOSI Pin=U7-14
+Removed Pin From Net: NetName=PWM Pin=U7-15
+Removed Pin From Net: NetName=RES Pin=U7-16
+Removed Pin From Net: NetName=BZZ Pin=U7-17
+Removed Pin From Net: NetName=SWDIO Pin=U7-18
+Removed Pin From Net: NetName=SWCLK Pin=U7-19
+Removed Pin From Net: NetName=UART_TX Pin=U7-20
+Removed Member From Class: ClassName=Sheet2_MCU_Digital Member=U7
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=10¦¸
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Added Component: Designator=MCU1(TSSOP_20)
+Added Component: Designator=R17(RESC_0603_2)
+Added Component: Designator=R18(RESC_0603_2)
+Added Pin To Net: NetName=PWM Pin=MCU1-2
+Added Pin To Net: NetName=BZZ Pin=MCU1-3
+Added Pin To Net: NetName=RST Pin=MCU1-4
+Added Pin To Net: NetName=NetL3_2 Pin=MCU1-5
+Added Pin To Net: NetName=ADC_Ele Pin=MCU1-6
+Added Pin To Net: NetName=ADC_Temp Pin=MCU1-7
+Added Pin To Net: NetName=ADC_Vol Pin=MCU1-8
+Added Pin To Net: NetName=D/C Pin=MCU1-9
+Added Pin To Net: NetName=NSS Pin=MCU1-10
+Added Pin To Net: NetName=SCLK Pin=MCU1-11
+Added Pin To Net: NetName=RES Pin=MCU1-12
+Added Pin To Net: NetName=MOSI Pin=MCU1-13
+Added Pin To Net: NetName=KEY_EN Pin=MCU1-14
+Added Pin To Net: NetName=AGND Pin=MCU1-15
+Added Pin To Net: NetName=VDD Pin=MCU1-16
+Added Pin To Net: NetName=UART_TX Pin=MCU1-17
+Added Pin To Net: NetName=UART_RX Pin=MCU1-18
+Added Pin To Net: NetName=SWDIO Pin=MCU1-19
+Added Pin To Net: NetName=SWCLK Pin=MCU1-20
+Added Pin To Net: NetName=DAC Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetMCU1_1 Pin=MCU1-1
+Added Pin To Net: NetName=NetMCU1_1 Pin=R18-1
+Added Net: Name=NetMCU1_1
+Added Pin To Net: NetName=OUT Pin=P3-1
+Added Pin To Net: NetName=OUT Pin=R17-1
+Added Net: Name=OUT
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component MCU1 AT32F425F6T7
+Added Member To Class: ClassName=Sheet1_Analog Member=Component R17 10¦¸
+Added Member To Class: ClassName=Sheet2_MCU_Digital Member=Component R22 10K
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital

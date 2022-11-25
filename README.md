@@ -95,11 +95,15 @@ float Elec = Source_Vol / RES_Sample;   //真实电流值
 
 _____
 
-图
+![image-20221126005802505](https://raw.githubusercontent.com/SwiperWitty/img/main/img/202211260058601.png)
 
-图
+
+
+
 
 波纹图
+
+
 
 
 

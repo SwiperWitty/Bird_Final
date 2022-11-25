@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U7 Old Footprint=BZZ_SMT New Footprint=SMD402
+Added Room: Name=Sheet1_Analog
+Added Room: Name=Sheet2_MCU_Digital
