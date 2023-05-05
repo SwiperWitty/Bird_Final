@@ -1,0 +1,4 @@
+[submodule "Bird_Software/MCU/Caven-MCU_Lib"]
+	path = Bird_Software/MCU/Caven-MCU_Lib
+	url = https://github.com/SwiperWitty/Caven-MCU_Lib.git
+	branch = main
